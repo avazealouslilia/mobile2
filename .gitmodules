@@ -1,0 +1,3 @@
+[submodule "model2"]
+	path = model2
+	url = https://github.com/avazealouslilia/model2.git
